@@ -1,5 +1,5 @@
 ## Jailbreaks Prompts
-
+ 
 * [jailbreak](#jailbreak)
 ## jailbreak
 
